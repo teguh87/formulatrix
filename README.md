@@ -1,8 +1,8 @@
 # formulatrix
 
 # Introduction
-This project based on requirement for hiring test provided by Formulatrix 
-it consist of storing the item content from registration data. 
+This project based on requirement for hiring test provided by Formulatrix. 
+It consist of storing the item content from registration data. 
 We will build Rest APIs by helping of storing item content of registration data. 
 Every configuration will be Java based Annotations instead XML and JSON.
 
@@ -32,11 +32,11 @@ We will try to cover all registration problems and their solutions as much as we
 
 <pre>
  - example no 1
-    -- item content : <register><firstname>Nemo</firstname><lastname>NoBody</lastname><email>nemo@example.com</email><password>123456</password><phoneNumber>+628177728172</phoneNumber><address>Anywhere</address></register>
+    -- item content : ```xml <register><firstname>Nemo</firstname><lastname>NoBody</lastname><email>nemo@example.com</email><password>123456</password><phoneNumber>+628177728172</phoneNumber><address>Anywhere</address></register>```
     -- item name: annon1
     -- item type: 2
  - example no 2
-    -- item content : <register><firstname>Setyo</firstname><lastname>Nugroho</lastname><email>setyo@example.com</email><password>123456</password><phoneNumber>+62883881777</phoneNumber><address>Anywhere</address></register>
+    -- item content : ```xml<register><firstname>Setyo</firstname><lastname>Nugroho</lastname><email>setyo@example.com</email><password>123456</password><phoneNumber>+62883881777</phoneNumber><address>Anywhere</address></register>```
     -- item name: annon2
     -- item type 2
  -  example no 3
