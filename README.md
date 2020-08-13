@@ -49,7 +49,7 @@ We will try to cover all registration problems and their solutions as much as we
 
 ## using curl for request the api
 <pre>
- curl -d "itemName=annon1&itemType=2&itemContent=  &lt;register&gt;&lt;firstname&gt;Nemo&lt;firstname&gt;&lt;lastname&gt;NoBody&lt;lastname&gt;&lt;email&gt;nemo@example.com&lt;email&gt;&lt;password&gt;123456&lt;password&gt;&lt;phoneNumber&gt;+628177728172&lt;phoneNumber&gt;&lt;address&gt;Anywhere&lt;address&gt;&lt;register -H "Content-Type: application/x-www-form-urlencoded" -X POST http://localhost:8080/register
+ curl -d "itemName=annon1&itemType=2&itemContent=&lt;register&gt;&lt;firstname&gt;Nemo&lt;firstname&gt;&lt;lastname&gt;NoBody&lt;lastname&gt;&lt;email&gt;nemo@example.com&lt;email&gt;&lt;password&gt;123456&lt;password&gt;&lt;phoneNumber&gt;+628177728172&lt;phoneNumber&gt;&lt;address&gt;Anywhere&lt;address&gt;&lt;register -H "Content-Type: application/x-www-form-urlencoded" -X POST http://localhost:8080/register
 </pre>
 
 ## Open API
