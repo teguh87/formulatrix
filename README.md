@@ -32,11 +32,11 @@ We will try to cover all registration problems and their solutions as much as we
 
 <pre>
  - example no 1
-    -- item content : ```xml <register><firstname>Nemo</firstname><lastname>NoBody</lastname><email>nemo@example.com</email><password>123456</password><phoneNumber>+628177728172</phoneNumber><address>Anywhere</address></register>```
+    -- item content : &lt;register&gt;&lt;firstname&gt;Nemo&lt;firstname&gt;&lt;lastname&gt;NoBody&lt;lastname&gt;&lt;email&gt;nemo@example.com&lt;email&gt;&lt;password&gt;123456&lt;password&gt;&lt;phoneNumber&gt;+628177728172&lt;phoneNumber&gt;&lt;address&gt;Anywhere&lt;address&gt;&lt;register
     -- item name: annon1
     -- item type: 2
  - example no 2
-    -- item content : ```xml<register><firstname>Setyo</firstname><lastname>Nugroho</lastname><email>setyo@example.com</email><password>123456</password><phoneNumber>+62883881777</phoneNumber><address>Anywhere</address></register>```
+    -- item content : &lt;register&gt;&lt;firstname&gt;Setyo&lt;firstname&gt;&lt;lastname&gt;Nugroho&lt;lastname&gt;&lt;email&gt;setyo@example.com&lt;email&gt;&lt;password&gt;123456&lt;password&gt;&lt;phoneNumber&gt;+62883881777&lt;phoneNumber&gt;&lt;address&gt;Anywhere&lt;address&gt;&lt;register&gt;
     -- item name: annon2
     -- item type 2
  -  example no 3
